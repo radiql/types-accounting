@@ -1,2 +1,2 @@
 # types-accounting
-A collection of types commonly found in accounting applications
+A collection of types commonly used in accounting applications
